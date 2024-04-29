@@ -1,0 +1,11 @@
+Aturan ke-,Harga tanah (C1),Jarak dari pusat kota (C2),Ada angkutan umum (C3),Dipilih untuk perumahan (C4),
+1,Murah,Dekat,Tidak,Tidak,Ya
+2,Sedang,Dekat,Tidak,Tidak,Ya
+3,Mahal,Dekat,Tidak,Tidak,Ya
+4,Mahal,Jauh,Tidak,Tidak,Tidak
+5,Mahal,Sedang,Tidak,Tidak,Tidak
+6,Sedang,Jauh,Ada,Ada,Tidak
+7,Murah,Jauh,Ada,Ada,Tidak
+8,Murah,Sedang,Tidak,Tidak,Ya
+9,Mahal,Jauh,Ada,Ada,Tidak
+10,Sedang,Sedang,Ada,Ada,Ya
